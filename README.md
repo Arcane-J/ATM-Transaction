@@ -1,10 +1,21 @@
-# ATM-Transaction
+### ATM-Transaction
 An ATM Transaction project using C++.
 
-This program was coded in VS.
-The program uses OOPs concepts and Data Structures to perform ATM Cash Withdrawal, Transfer, Balance check and a few other operations.
+INTRODUCTION
 
-MAIN MENU:
+The program uses OOPs concepts and Data Structures to perform ATM transaction operations(Cash Deposit, Cash Withdrawal, Balance Check) and save the updated User and ATM data in text files after transaction.
+
+TECHNOLOGIES USED
+
+This program was coded in Microsoft Visual Studio.
+
+REQUIRENMENTS
+
+Visual Studio or any other C++ IDEs.
+
+SCREENSHOTS
+
+MAIN MENU
 
 ![image](https://user-images.githubusercontent.com/75474353/148396781-7a4ecb1a-e929-4fac-804e-4829c5308788.png)
 
